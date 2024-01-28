@@ -1,23 +1,23 @@
-# Análise de Dados de Poluição do Ar: Explorando Tendências e Padrões
+# Air Pollution Data Analysis: Exploring Trends and Patterns
 
-A análise de dados de poluição do ar é fundamental para compreender as variações nos níveis de poluentes atmosféricos ao longo do tempo e em diferentes regiões geográficas. Neste projeto, realizamos uma análise detalhada dos dados de poluição do ar, abrangendo os anos de 2018 a 2023 e diversos países.
+Analyzing air pollution data is crucial for understanding variations in atmospheric pollutant levels over time and across different geographical regions. In this project, we conducted a detailed analysis of air pollution data spanning from 2018 to 2023 and covering various countries.
 
-### Passo 1: Coleta e Organização dos Dados
+## Step 1: Data Collection and Organization
 
-Inicialmente, obtivemos um conjunto de dados que continha informações sobre os níveis de poluição em vários países. Este conjunto incluiu dados anuais de 2018 a 2023, permitindo-nos explorar as tendências ao longo de um período significativo.
+Initially, we obtained a dataset containing information on pollution levels in various countries. This dataset included yearly data from 2018 to 2023, allowing us to explore trends over a significant period.
 
-### Passo 2: Exploração Inicial dos Dados
+## Step 2: Initial Data Exploration
 
-Antes de realizar qualquer análise aprofundada, realizamos uma exploração inicial dos dados. Identificamos as variáveis presentes no conjunto de dados, avaliamos a qualidade das informações e verificamos se seria necessário algum pré-processamento.
+Before delving into in-depth analysis, we performed an initial exploration of the data. We identified the variables present in the dataset, assessed the quality of the information, and checked if any preprocessing was necessary.
 
-### Passo 3: Visualização dos Dados por País
+## Step 3: Data Visualization by Country
 
-Para entender as tendências ao longo do tempo, optamos por visualizar os dados de poluição por país. Utilizamos gráficos de linha para representar a variação nos níveis de poluentes a cada ano. Essa abordagem permitiu uma compreensão visual das mudanças nos padrões de poluição para cada nação em análise.
+To understand trends over time, we chose to visualize pollution data by country. We used line charts to represent the variation in pollutant levels each year. This approach provided a visual understanding of changes in pollution patterns for each nation under analysis.
 
-### Passo 4: Destaque para Países com Variações Notáveis
+## Step 4: Highlighting Countries with Notable Variations
 
-Identificamos países que apresentaram variações notáveis nos níveis de poluição ao longo dos anos. Isso incluiu países que experimentaram picos acentuados em determinados anos, sugerindo eventos ou condições específicas que influenciaram a qualidade do ar.
+We identified countries that showed notable variations in pollution levels over the years. This included countries that experienced sharp peaks in certain years, suggesting specific events or conditions influencing air quality.
 
-## Conclusão e Considerações Finais
+# Conclusion and Final Considerations
 
-A análise de dados de poluição do ar revelou padrões intrigantes e variações significativas nos níveis de poluentes em diferentes países ao longo do período analisado. A visualização eficaz dos dados proporcionou insights valiosos sobre as tendências, destacando a importância contínua da monitorização e gestão da qualidade do ar em escala global. Embora o projeto não tenha incluído uma análise preditiva usando modelos de machine learning, a exploração inicial dos dados lançou luz sobre aspectos críticos da problemática da poluição atmosférica.
+The air pollution data analysis revealed intriguing patterns and significant variations in pollutant levels across different countries during the analyzed period. Effective data visualization provided valuable insights into trends, highlighting the ongoing importance of global-scale air quality monitoring and management. While the project did not include predictive analysis using machine learning models, the initial data exploration shed light on critical aspects of the air pollution issue.
